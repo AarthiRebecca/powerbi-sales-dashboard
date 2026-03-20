@@ -68,5 +68,5 @@ The repository contains:
 ## Author
 
 **Aarthi Rebecca**  
-
-Created as part of a **Data Analytics / Business Intelligence portfolio project** to demonstrate **Power BI dashboarding and data storytelling skills**.
+Master of Management – Business Data Analytics
+University of Windsor
