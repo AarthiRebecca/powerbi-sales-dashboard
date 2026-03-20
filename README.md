@@ -68,5 +68,7 @@ The repository contains:
 ## Author
 
 **Aarthi Rebecca**  
+
 Master of Management – Business Data Analytics
+
 University of Windsor
